@@ -17,7 +17,7 @@ List<Map> categories = [
     'icon': Icons.fastfood,
   },
   {
-    "name": 'EQUIPMENTS',
+    "name": 'TOOLS',
     'icon': Icons.bubble_chart,
   },
 ];
