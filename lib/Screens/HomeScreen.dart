@@ -21,7 +21,7 @@ class _HomeScreenState extends State<HomeScreen> {
               ? KAppColor
               : Colors.transparent,
           padding: EdgeInsets.symmetric(
-            horizontal: 5,
+            horizontal: 3,
             vertical: 5,
           ),
           child: Row(
